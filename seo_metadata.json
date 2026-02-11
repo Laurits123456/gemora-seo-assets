@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "url": "https://gemora.dk/",
+      "h1": "Gemora giver lærere superkræfter",
+      "meta_description": "Løft kvaliteten i din undervisning med Gemora. AI-drevet feedback, intelligent forberedelse og dyb indsigt i elevens behov for det moderne klasseværelse."
+    },
+    {
+      "url": "https://gemora.dk/feedback",
+      "h1": "Dybere, mere personlig feedback med AI",
+      "meta_description": "Spar tid på rettelser uden at gå på kompromis med kvaliteten. Gemora hjælper dig med at give handlingsorienteret feedback til dine elever."
+    },
+    {
+      "url": "https://gemora.dk/elevevanalyse",
+      "h1": "Få ægte indsigt i hver elevs behov",
+      "meta_description": "Forstå dine elevers faglige progression med intelligent dataanalyse. Identificer hvem der har brug for ekstra støtte i tide."
+    }
+  ]
+}
