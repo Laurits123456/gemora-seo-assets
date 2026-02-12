@@ -2,18 +2,27 @@
   "pages": [
     {
       "url": "https://gemora.dk/",
-      "h1": "Gemora giver lærere superkræfter",
-      "meta_description": "Løft kvaliteten i din undervisning med Gemora. AI-drevet feedback, intelligent forberedelse og dyb indsigt i elevens behov for det moderne klasseværelse."
+      "title": "Gemora — AI-assistent til lærere i den danske skole",
+      "h1": "Giv dine elever bedre feedback med AI",
+      "meta_description": "Gemora hjælper danske lærere med at give dybere feedback, spare tid på rettelser og forstå hver elevs faglige behov — med sikker AI.",
+      "og_image": "https://gemora.dk/og-image-home.png",
+      "keywords": ["AI til lærere", "automatisk feedback", "opgaverettelse AI", "dansk skole AI"]
     },
     {
-      "url": "https://gemora.dk/feedback",
-      "h1": "Dybere, mere personlig feedback med AI",
-      "meta_description": "Spar tid på rettelser uden at gå på kompromis med kvaliteten. Gemora hjælper dig med at give handlingsorienteret feedback til dine elever."
+      "url": "https://gemora.dk/priser",
+      "title": "Priser — Gemora AI til lærere",
+      "h1": "Vælg den plan der passer til dig",
+      "meta_description": "Kom i gang gratis eller vælg Pro/Ultra til ubegrænset AI-feedback. Se priser for individuelle lærere og skolelicenser.",
+      "og_image": "https://gemora.dk/og-image-pricing.png",
+      "keywords": ["Gemora pris", "AI undervisning pris", "skole AI licens"]
     },
     {
-      "url": "https://gemora.dk/elevevanalyse",
-      "h1": "Få ægte indsigt i hver elevs behov",
-      "meta_description": "Forstå dine elevers faglige progression med intelligent dataanalyse. Identificer hvem der har brug for ekstra støtte i tide."
+      "url": "https://gemora.dk/hvordan-det-virker",
+      "title": "Sådan virker Gemora — AI-drevet undervisningsassistent",
+      "h1": "Fra opgave til feedback på få minutter",
+      "meta_description": "Se hvordan Gemora analyserer elevbesvarelser og giver personlig, handlingsorienteret feedback med AI — tilpasset den danske læseplan.",
+      "og_image": "https://gemora.dk/og-image-how.png",
+      "keywords": ["AI feedback skole", "automatisk rettelse", "Gemora demo"]
     }
   ]
 }
