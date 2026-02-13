@@ -1,16 +1,19 @@
-# AI i Dansk: Fra Analyse til Bedre Elevfeedback
+# Gemora for Dansklærere: Giv dybere feedback på kortere tid ⚡️
 
-AI i dansk-undervisningen handler ikke om at lade maskinen skrive stilen. Det handler om at bruge teknologien til at dykke dybere ned i tekstanalysen og give eleverne feedback, der rykker deres faglige niveau.
+Løft kvaliteten af din dansk-undervisning. Fra litterær analyse til skriftlig fremstilling – Gemora hjælper dig med at give hver elev den indsigt, de fortjener.
 
-## Litterær analyse med AI-støtte
-Når eleverne arbejder med svære tekster – fra islandske sagaer til moderne dokumentarisme – kan Gemora hjælpe læreren med at strukturere feedbacken. Ved at bruge AI-assisteret rettelse kan læreren hurtigt identificere, om eleven har forstået de underliggende temaer, eller om de blot genfortæller handlingen.
+## Tre måder Gemora styrker dansk-faget:
 
-### Fordele for dansklæreren:
-1. **Dybdegående feedback:** Gemora foreslår specifikke kommentarer til elevens argumentationsanalyse.
-2. **Tidsbesparelse:** Brug mindre tid på kommafejl og mere tid på den faglige dialog.
-3. **Individuel tilpasning:** Feedbacken tilpasses den enkelte elevs niveau og fokuspunkter.
+### 🦾 Argumentationsanalyse
+Lad AI'en scanne elevens tekst for påstande og belæg. Få lynhurtigt overblik over hvem der har styr på Toulmin, og hvem der mangler dybde.
 
-## Kildekritik og AI
-I en verden med AI er kildekritik vigtigere end nogensinde. Gemora hjælper lærere med at træne eleverne i at gennemskue tekster, uanset om de er skrevet af et menneske eller en algoritme.
+### 📚 Litterær indsigt
+Brug Gemoras Vidensbase til at uploade tekster fra Det Moderne Gennembrud eller Sagaerne. AI'en hjælper dig med at give feedback baseret på de specifikke kilder.
 
-[Læs mere om vores Ultra-plan for gymnasielærere](https://gemora.dk/priser)
+### 📝 Proces-orienteret feedback
+Følg elevens udvikling over tid. Gemora husker tidligere rettelser og hjælper dig med at se, om eleven rent faktisk implementerer dine råd.
+
+## En del af det intelligente lærerværelse
+Gemora er bygget til den danske skole. Det betyder 100% fokus på GDPR, sikkerhed og den pædagogiske læreplan.
+
+[Prøv Gemora til Dansk her](https://gemora.dk/)
